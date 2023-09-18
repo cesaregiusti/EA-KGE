@@ -1,8 +1,10 @@
 # EA-KGE
 
-Sapienza University of Rome a.y. 2022-23 \\
-Master's Degree in Data Science \\
-Honors Programme Project - Exploring Entity Alignment Through Knowledge Graph Embeddings \\
+Sapienza University of Rome a.y. 2022-23
+
+Master's Degree in Data Science
+
+Honors Programme Project - Exploring Entity Alignment Through Knowledge Graph Embeddings
 
 Contents: 
 * Entity Alignment KG Embeddings.ipynb: contains all the code to run the experiment
